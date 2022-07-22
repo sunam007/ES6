@@ -28,4 +28,7 @@ console.log(black2);
 
     if condition is false the filter() returns an empty array []
     but find() returns undefined;
+
+    filter() returns all the element if the condition is true
+    but find only returns the first element if the condition is true
 */
