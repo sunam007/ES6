@@ -16,7 +16,7 @@ const productPrices = products.map((product) => product.price);
 // console.log(productNames);
 // console.log(productPrices);
 //looping through an array of objects with .map() method
-// products.map((p) => console.log(p));
+products.map((p) => console.log(p));
 // in all of the above case .map() method was used where we expected some returns.
 // we can do the same thing with .forEach() loop;
 products.forEach((product) => console.log(product));
